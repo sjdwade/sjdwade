@@ -7,16 +7,16 @@ http://39.135.33.12/PLTV/77777777/224/3221226580/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,凤凰资讯2
+http://117.169.120.163:8080/live/fhzixun/.m3u8
+#EXTINF:-1 ,凤凰资讯4
+http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 ,凤凰资讯(备1)
 http://125.210.152.21:9090/live/FHZX.m3u8
 #EXTINF:-1 ,凤凰资讯(备3)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 ,凤凰资讯2
-http://117.169.120.163:8080/live/fhzixun/.m3u8
-#EXTINF:-1 ,凤凰资讯4
-http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 ,凤凰卫视资讯台
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 #EXTINF:-1 ,凤凰资讯台
